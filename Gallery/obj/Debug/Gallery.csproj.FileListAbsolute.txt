@@ -1,0 +1,10 @@
+D:\Programming-Projects\Gallery\Gallery\bin\Debug\Gallery.exe.config
+D:\Programming-Projects\Gallery\Gallery\bin\Debug\Gallery.exe
+D:\Programming-Projects\Gallery\Gallery\bin\Debug\Gallery.pdb
+D:\Programming-Projects\Gallery\Gallery\obj\Debug\Gallery.csprojAssemblyReference.cache
+D:\Programming-Projects\Gallery\Gallery\obj\Debug\Gallery.Form1.resources
+D:\Programming-Projects\Gallery\Gallery\obj\Debug\Gallery.Properties.Resources.resources
+D:\Programming-Projects\Gallery\Gallery\obj\Debug\Gallery.csproj.GenerateResource.cache
+D:\Programming-Projects\Gallery\Gallery\obj\Debug\Gallery.csproj.CoreCompileInputs.cache
+D:\Programming-Projects\Gallery\Gallery\obj\Debug\Gallery.exe
+D:\Programming-Projects\Gallery\Gallery\obj\Debug\Gallery.pdb
